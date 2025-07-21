@@ -1,4 +1,3 @@
-# Assignment 1
 
 ## Overview
 This project is a full-stack demo application featuring:
