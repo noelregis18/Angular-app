@@ -37,6 +37,3 @@ This project is a full-stack demo application featuring:
 - This project is for demonstration/assignment purposes.
 - The backend uses CORS and accepts JSON requests.
 - You can test the backend using Postman, curl, or any HTTP client.
-
-## Repository
-[GitHub Repo](https://github.com/noelregis18/Angular-app.git) 
